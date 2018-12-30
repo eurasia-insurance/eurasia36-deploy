@@ -3,15 +3,15 @@
 	<parent>
 		<groupId>tech.lapsa.maven</groupId>
 		<artifactId>maven-general</artifactId>
-		<version>3.2</version>
+		<version>CURRENT-SNAPSHOT</version>
 	</parent>
 
 	<groupId>tech.lapsa.eurasia36</groupId>
-	<artifactId>eurasia36-ear-dependencies</artifactId>
+	<artifactId>eurasia36-deploy</artifactId>
 	<version>CURRENT-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>Eurasia36 Lib : EAR Dependencies</name>
+	<name>Eurasia36 Lib : DEPLOY</name>
 
 	<properties>
 		<!-- esbd -->
