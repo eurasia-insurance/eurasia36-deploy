@@ -173,4 +173,10 @@
 		</profile>
 	</profiles>
 
+        <scm>
+                <connection>scm:git:hhttps://github.com/eurasia-insurance/eurasia36-deploy.git</connection>
+                <developerConnection>scm:git:https://github.com/eurasia-insurance/eurasia36-deploy.git</developerConnection>
+                <tag>HEAD</tag>
+        </scm>
+
 </project>
