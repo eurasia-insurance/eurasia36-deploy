@@ -17,6 +17,6 @@ buildNumber.properties
 # Other
 *.bak
 
-
+# local
 autodeploy
-.*
+logs
