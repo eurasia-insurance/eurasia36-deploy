@@ -1,0 +1,3 @@
+#!/bin/bash
+
+{ rm autodeploy/*.ear || true ; } && cd ../../ && mvn -DskipTests -Darguments=-DskipTests clean install -T6 && cd eurasia36/deploy/ && mvn -Pautodeploy
