@@ -1,0 +1,3 @@
+#!/bin/bash
+
+{ rm autodeploy/esbd-dao-app-CURRENT-SNAPSHOT.ear || true ; } && cd ../../esbd/dao/ && mvn -DskipTests -Darguments=-DskipTests clean install && cd ../../eurasia36/deploy/ && mvn -Pautodeploy
