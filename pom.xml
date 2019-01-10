@@ -28,7 +28,7 @@
 		<insurance-daemon.version>20190110</insurance-daemon.version>
 		<insurance-notification-daemon.version>20190110</insurance-notification-daemon.version>
 		<insurance-ws.version>20190110</insurance-ws.version>
-		<insurance-crm.version>20190110r2</insurance-crm.version>
+		<insurance-crm.version>CURRENT-SNAPSHOT</insurance-crm.version>
 		<!-- eurasia36 -->
 		<eurasia36-notification-templates.version>20190110</eurasia36-notification-templates.version>
 	</properties>
