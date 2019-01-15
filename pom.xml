@@ -24,8 +24,8 @@
 		<!-- insurance -->
 		<insurance-calculation.version>20190113r3</insurance-calculation.version>
 		<insurance-dao.version>20190113r3</insurance-dao.version>
-		<insurance-facade.version>CURRENT-SNAPSHOT</insurance-facade.version>
-		<insurance-daemon.version>CURRENT-SNAPSHOT</insurance-daemon.version>
+		<insurance-facade.version>20190115r1</insurance-facade.version>
+		<insurance-daemon.version>20190115r1</insurance-daemon.version>
 		<insurance-notification-daemon.version>20190113r3</insurance-notification-daemon.version>
 		<insurance-ws.version>20190113r3</insurance-ws.version>
 		<insurance-crm.version>20190113r3</insurance-crm.version>
