@@ -8,7 +8,7 @@
 
 	<groupId>tech.lapsa.eurasia36</groupId>
 	<artifactId>eurasia36-deploy</artifactId>
-	<version>20190116r1</version>
+	<version>CURRENT-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Eurasia36 Lib : DEPLOY</name>
@@ -24,7 +24,7 @@
 		<!-- insurance -->
 		<insurance-calculation.version>20190113r3</insurance-calculation.version>
 		<insurance-dao.version>20190113r3</insurance-dao.version>
-		<insurance-facade.version>20190116r1</insurance-facade.version>
+		<insurance-facade.version>CURRENT-SNAPSHOT</insurance-facade.version>
 		<insurance-daemon.version>20190115r1</insurance-daemon.version>
 		<insurance-notification-daemon.version>20190113r3</insurance-notification-daemon.version>
 		<insurance-ws.version>20190113r3</insurance-ws.version>
