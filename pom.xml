@@ -15,22 +15,22 @@
 
 	<properties>
 		<!-- esbd -->
-		<esbd-dao.version>20190128r1</esbd-dao.version>
+		<esbd-dao.version>CURRENT-SNAPSHOT</esbd-dao.version>
 		<!-- epayment -->
-		<epayment-dao.version>20190128r1</epayment-dao.version>
-		<epayment-facade.version>20190128r1</epayment-facade.version>
-		<epayment-notification-daemon.version>20190128r1</epayment-notification-daemon.version>
-		<epayment-ws.version>20190128r1</epayment-ws.version>
+		<epayment-dao.version>CURRENT-SNAPSHOT</epayment-dao.version>
+		<epayment-facade.version>CURRENT-SNAPSHOT</epayment-facade.version>
+		<epayment-notification-daemon.version>CURRENT-SNAPSHOT</epayment-notification-daemon.version>
+		<epayment-ws.version>CURRENT-SNAPSHOT</epayment-ws.version>
 		<!-- insurance -->
-		<insurance-calculation.version>20190128r1</insurance-calculation.version>
-		<insurance-dao.version>20190128r1</insurance-dao.version>
-		<insurance-facade.version>20190128r1</insurance-facade.version>
-		<insurance-daemon.version>20190128r1</insurance-daemon.version>
-		<insurance-notification-daemon.version>20190128r1</insurance-notification-daemon.version>
-		<insurance-ws.version>20190128r1</insurance-ws.version>
-		<insurance-crm.version>20190128r1</insurance-crm.version>
+		<insurance-calculation.version>CURRENT-SNAPSHOT</insurance-calculation.version>
+		<insurance-dao.version>CURRENT-SNAPSHOT</insurance-dao.version>
+		<insurance-facade.version>CURRENT-SNAPSHOT</insurance-facade.version>
+		<insurance-daemon.version>CURRENT-SNAPSHOT</insurance-daemon.version>
+		<insurance-notification-daemon.version>CURRENT-SNAPSHOT</insurance-notification-daemon.version>
+		<insurance-ws.version>CURRENT-SNAPSHOT</insurance-ws.version>
+		<insurance-crm.version>CURRENT-SNAPSHOT</insurance-crm.version>
 		<!-- eurasia36 -->
-		<eurasia36-notification-templates.version>20190128r1</eurasia36-notification-templates.version>
+		<eurasia36-notification-templates.version>CURRENT-SNAPSHOT</eurasia36-notification-templates.version>
 	</properties>
 
 	<dependencies>
