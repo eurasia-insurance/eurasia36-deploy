@@ -20,3 +20,4 @@ buildNumber.properties
 # local
 autodeploy
 logs
+backup
